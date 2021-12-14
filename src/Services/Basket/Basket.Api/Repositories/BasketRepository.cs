@@ -1,4 +1,3 @@
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using Basket.Api.Entities;
 using Microsoft.Extensions.Caching.Distributed;
